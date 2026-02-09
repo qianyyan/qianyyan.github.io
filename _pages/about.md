@@ -1,24 +1,25 @@
 ---
----
 title: "About"
 permalink: /
 author_profile: true
 ---
 
-## Qian Yan
+## Qian Yan 钱燕
 
 PhD Student  
 Seoul National University
 
-Welcome to my personal homepage.
+Welcome to my personal homepage.  
+欢迎来到我的个人主页。
 
-I am interested in urban microclimate, thermal comfort, and human-centered urban environments.
+I am interested in urban microclimate, thermal comfort, and human-centered urban environments.  
+我对城市小气候、热舒适性以及以人为本的城市环境感兴趣。
 
-- 📍 Seoul, Korea
+- 📍 Seoul, Korea / 韩国首尔
 - 📧 Email: your@email.com
-- 💻 GitHub: https://github.com/yanqian603
+- 💻 GitHub: https://github.com/qianyan
 
----
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
