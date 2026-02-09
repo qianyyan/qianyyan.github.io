@@ -18,6 +18,6 @@ I am interested in urban microclimate, thermal comfort, and human-centered urban
 
 - 📍 Seoul, Korea / 韩国首尔
 - 📧 Email: yanqian603@email.com
-- 💻 GitHub: https://github.com/qianyyan
+- 💻 GitHub: https://github.com/qianyyan 
 
 
